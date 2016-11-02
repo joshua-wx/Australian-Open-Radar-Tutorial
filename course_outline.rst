@@ -46,7 +46,7 @@ Render this document as pdf by ``rst2pdf course_outline.rst``
 
 **15:40 - 16:00** `AFTERNOON BREAK`_::
 
-**15:40 - 16:00** `SCOTT COLLIS PRESENTATION`_::
+**16:00 - 16:40** `SCOTT COLLIS PRESENTATION`_::
 
 	Open radar science: using community coding paradigms to enable more people to do more with polarimetric radar measurements
 
