@@ -38,13 +38,13 @@ install Anaconda and Py-ART using the following steps.
 > 
 > <a href="https://github.com/uq-crg/Australian-Open-Radar-Tutorial/blob/master/1_Welcome.ipynb"> Welcome Slides </a>
 >
-><a href="https://github.com/uq-crg/Australian-Open-Radar-Tutorial/blob/master/2_Intro_to_Python.ipynb">Intro to Python and SciPy</a>
+><a href="https://github.com/uq-crg/Australian-Open-Radar-Tutorial/blob/master/2_Intro_to_Python.ipynb">Intro to Python</a>
 >
 ><a href="https://github.com/uq-crg/Australian-Open-Radar-Tutorial/blob/master/3_Basic_PyART.ipynb">Basic Py-ART</a>
 >
-><a href="https://github.com/uq-crg/Australian-Open-Radar-Tutorial/blob/master/4_Dealiasing_and_Gridding_using_PyART.ipynb">Py-ART IO in Detail</a>
+><a href="https://github.com/uq-crg/Australian-Open-Radar-Tutorial/blob/master/4_Dealiasing_and_Gridding_using_PyART.ipynb">Dealiasing and Gridding using Py-ART</a>
 >
-><a href="https://github.com/uq-crg/Australian-Open-Radar-Tutorial/blob/master/5_Applications_of_PyART.ipynb">Py-ART Data Model</a>
+><a href="https://github.com/uq-crg/Australian-Open-Radar-Tutorial/blob/master/5_Applications_of_PyART.ipynb">Py-ART Applications</a>
 >
 
 
