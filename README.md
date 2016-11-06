@@ -18,7 +18,6 @@ install Anaconda and Py-ART using the following steps.
     
     ```
     conda install basemap netcdf4 boto
-	 pip install owslib
     ```
    
     Answer yes to any prompts.
@@ -31,7 +30,14 @@ install Anaconda and Py-ART using the following steps.
 
     Answer yes to any prompts. 
 
-4.  Install the twitter python api [link](https://python-twitter.readthedocs.io/en/latest/getting_started.html)
+3.  In the same terminal or command prompt install owslib using the command:
+
+    ```
+    conda install -c conda-forge owslib
+    ```
+
+    Answer yes to any prompts. 
+
 ### Contents
 
 > <a href="https://github.com/uq-crg/Australian-Open-Radar-Tutorial/blob/master/course_outline.rst"> Course Outline</a>
