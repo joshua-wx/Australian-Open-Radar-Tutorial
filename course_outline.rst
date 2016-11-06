@@ -3,7 +3,7 @@ Australian Open Radar Tutorial (Gematronik Workshop Nov 2016)
 
 Render this document as pdf by ``rst2pdf course_outline.rst``
 
-**13:40 - 14:00** `ARRIVAL AND INTRODUCTION TO PYTHON`_::
+**13:40 - 14:10** `ARRIVAL AND INTRODUCTION TO PYTHON`_::
 
    Taking seats, starting notebooks
 
@@ -13,7 +13,7 @@ Render this document as pdf by ``rst2pdf course_outline.rst``
 
 	Introduction to Open Radar Software
 
-**14:00 - 14:30** `BASIC PY-ART`_::
+**14:10 - 14:40** `BASIC PY-ART`_::
 
    How Py-ART reads data into Python and how to access the raw data information
 
@@ -23,7 +23,7 @@ Render this document as pdf by ``rst2pdf course_outline.rst``
 
 	Practical: Case study using Brisbane radar (66) data (27-11-2014 hailstorm event)
 
-**14:30 - 15:00** `DEALIASING AND GRIDDING USING PY-ART`_::
+**14:40 - 15:10** `DEALIASING AND GRIDDING USING PY-ART`_::
 
 	Doppler Velocity Dealiasing
 
@@ -31,19 +31,13 @@ Render this document as pdf by ``rst2pdf course_outline.rst``
 
 	Practical: Case study using Kurnell radar (54) data (15-12-2015 tornado event)
 
-**15:00 - 15:25** `APPLICATIONS OF PY-ART`_::
+**15:10 - 15:40** `APPLICATIONS OF PY-ART`_::
 
 	Twitter api
 
 	Interface with amazon s3 datasets
 
 	Practical: Investigate realtime datasets an Australian radar
-
-**15:25 - 15:40** `OPEN RADAR SOFTWARE UNIVERSE AND CONCLUSION`_::
-
-   Brief summary of open radar software universe
-
-	Conclusion to Tutorial
 
 **15:40 - 16:00** `AFTERNOON BREAK`_::
 
